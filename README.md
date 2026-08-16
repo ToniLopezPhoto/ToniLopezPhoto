@@ -1,171 +1,65 @@
-# Hey, I'm Toni 👋
+# Toni López
 
 **Photographer · Art Director · E-commerce Imaging · Creative Automation**
 
-I'm a photographer and art director specialized in **e-commerce and product photography**, currently exploring how software, automation and AI can improve professional imaging workflows.
+Fotógrafo especializado en **producto y e-commerce**, explorando la intersección entre **Photoshop, automatización, computer vision e IA**.
 
-My GitHub is where I build and experiment with tools around **Adobe Photoshop, photography, AI-assisted retouching and creative production**.
+Actualmente construyo herramientas para eliminar tareas repetitivas de los workflows profesionales de imagen.
 
----
-
-## 🚀 Featured Project
-
-### 🧰 GorFactory Tools
-
-> A growing Photoshop toolkit designed around real-world e-commerce retouching workflows.
-
-**GorFactory Tools** is my main project: a modular toolkit for Adobe Photoshop focused on reducing repetitive work and turning common retouching processes into accessible tools.
-
-Current areas of development include:
-
-* Product selection and masking
-* Automated Photoshop workflows
-* Product color replacement
-* Dust & scratches workflows
-* Layer and document automation
-* Paths and masks generation
-* Batch processing
-* E-commerce image preparation
-* AI-assisted segmentation
-* Adobe UXP integrations
-* Photoshop workflow utilities
-
-The goal is simple:
-
-**Spend less time clicking through repetitive Photoshop operations and more time actually retouching and creating.**
-
-`Photoshop` `Adobe UXP` `JavaScript` `ExtendScript` `AI` `Computer Vision` `Automation`
+[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?logo=adobephotoshop\&logoColor=31A8FF)](https://www.adobe.com/products/photoshop.html)
+![UXP](https://img.shields.io/badge/Adobe-UXP-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript\&logoColor=000)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?logo=python\&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Computer%20Vision-blueviolet)
 
 ---
 
-## 📸 About me
+## 🧰 GorFactory Tools
 
-My background isn't traditional software development.
+> **Photoshop toolkit for professional e-commerce workflows.**
 
-I'm a **professional photographer specialized in product and e-commerce photography**, with experience across:
+Mi proyecto principal: un panel modular para Photoshop pensado para convertir procesos habituales de retoque en herramientas rápidas y reutilizables.
 
-* Product photography
-* E-commerce production
-* High-volume image workflows
-* Retouching
-* Jewelry photography
-* Fashion
-* Art direction
-* Lighting
-* Color management
-* Capture workflows
+`Masking` · `Product Selection` · `Color Replacement` · `Paths` · `Dust & Scratches` · `Batch Processing` · `AI Segmentation`
 
-Working daily with large volumes of images naturally led me toward **automation and tool development**.
-
-Instead of adapting the workflow to the software, I'm interested in building software around the workflow.
+[![GitHub Repo](https://img.shields.io/badge/GitHub-GorFactory%20Tools-181717?logo=github)](TU_URL_DEL_REPO)
+![GitHub Issues](https://img.shields.io/github/issues/TU_USUARIO/TU_REPO)
+![GitHub Stars](https://img.shields.io/github/stars/TU_USUARIO/TU_REPO?style=flat)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/TU_USUARIO/TU_REPO)
 
 ---
 
-## 🧠 What I'm exploring
+## ⚡ What I'm working on
 
-### Adobe Photoshop automation
-
-Building tools that connect professional retouching techniques with:
-
-* Adobe UXP
-* Photoshop APIs
-* ExtendScript
-* BatchPlay
-* Actions
-* Scripting
-* Custom panels
-
-### AI + Computer Vision
-
-Exploring how models such as segmentation and detection systems can assist with:
-
-* Product recognition
-* Automatic masking
-* Material and component detection
-* Product recoloring
-* Retouching assistance
-* Visual quality control
-
-### Agentic development
-
-Experimenting with AI coding agents and development workflows around:
-
-* Claude Code
-* Codex
-* OpenCode
-* GitHub Issues & Projects
-* MCP
-* Agent orchestration
-* Specification-driven development
-
----
-
-## 🛠️ Current toolbox
-
-**Imaging**
-
-`Photoshop` · `Capture One` · `Lightroom` · `Helicon Focus` · `DaVinci Resolve`
-
-**Development & automation**
-
-`Adobe UXP` · `JavaScript` · `ExtendScript` · `Python` · `Git` · `GitHub`
-
-**AI / experimentation**
-
-`Computer Vision` · `SAM` · `Grounding DINO` · `MCP` · `AI Agents`
-
----
-
-## 🧪 Other projects & experiments
-
-Besides GorFactory Tools, this GitHub is also home to smaller experiments around:
-
+* Adobe Photoshop automation with **UXP / BatchPlay**
+* AI-assisted **product segmentation & masking**
+* Automated **e-commerce retouching workflows**
+* Computer Vision with **SAM / Grounding DINO**
+* Agentic development with **Claude Code, Codex & MCP**
 * Photography workflow automation
-* Photoshop scripts
-* E-commerce production utilities
-* Batch image processing
-* Focus stacking workflows
-* Image organization
-* AI-assisted creative tools
-* Creative pipeline experiments
-
-Some become proper tools.
-
-Some remain experiments.
-
-And some exist because I got tired of doing the same thing manually for the 400th time.
 
 ---
 
-## 🎯 What I'm building toward
+## 📸 Background
 
-I'm interested in the intersection between:
+Professional photographer focused on:
 
-**Photography × Retouching × Automation × AI**
+**Product · E-commerce · Retouching · Jewelry · Art Direction · Lighting**
 
-The long-term goal is to create tools that understand how photographers and retouchers actually work — particularly in **high-volume e-commerce environments**.
+The idea behind most of my projects is simple:
 
-Not automation for the sake of automation.
-
-Automation that removes friction from creative work.
+> **Build software around the workflow — not the workflow around the software.**
 
 ---
 
-## 🤝 Interests
+## 📊 GitHub
 
-I'm especially interested in projects involving:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&hide_title=true\&hide_border=true)
 
-* Creative tools
-* Adobe Photoshop
-* E-commerce imaging
-* Photography technology
-* Computer vision
-* AI-assisted retouching
-* Workflow automation
-* Human + AI creative workflows
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&hide_border=true)
 
 ---
 
-### From camera to code.
+### Photography × Retouching × Automation × AI
 
-Building tools for the problems I encounter behind the camera and inside Photoshop.
+**Building tools for the problems I encounter behind the camera and inside Photoshop.**
