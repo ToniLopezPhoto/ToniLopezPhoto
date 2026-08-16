@@ -2,9 +2,7 @@
 
 **Photographer · Art Director · E-commerce Imaging · Creative Automation**
 
-Fotógrafo especializado en **producto y e-commerce**, explorando la intersección entre **Photoshop, automatización, computer vision e IA**.
-
-Actualmente construyo herramientas para eliminar tareas repetitivas de los workflows profesionales de imagen.
+Commercial product photographer bridging the gap between Photoshop, automation, computer vision, and AI. Currently developing tools to remove repetitive friction from professional image workflows.
 
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?logo=adobephotoshop\&logoColor=31A8FF)](https://www.adobe.com/products/photoshop.html)
 ![UXP](https://img.shields.io/badge/Adobe-UXP-red)
