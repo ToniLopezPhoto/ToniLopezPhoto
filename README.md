@@ -8,6 +8,3 @@
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?logo=python\&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Computer%20Vision-blueviolet)
 
----
-
-**Building tools for the problems I encounter behind the camera and inside Photoshop.**
