@@ -1,28 +1,50 @@
+<div align="center">
+
 # Toni López
 
 **Photographer · Art Director · Creative Technologist**
 
-I work where **visual production meets software**.
+I build tools where **visual production meets software**.
 
-My background is in photography, lighting, retouching and e-commerce imaging. I build tools around the problems I encounter there: repetitive production work, image consistency, large media archives, disconnected systems and workflows that should not need a human clicking the same thing 500 times.
+`Photography` · `Creative Automation` · `AI Agents` · `Production Systems`
 
-Most of what I build sits somewhere between **creative automation, AI agents and production infrastructure**.
+</div>
 
-## What I'm working on
+---
 
-- Photoshop and Adobe UXP tooling for real production workflows
-- AI-assisted image pipelines and computer vision
-- Agentic workflows, MCP integrations and tool-use systems
-- Automation around operational data and internal processes
-- Reliable storage, backups and self-hosted infrastructure
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Tech DNA
+### Creative tooling
+
+Photoshop / UXP tools, image workflows and automation built around real production work.
+
+</td>
+<td width="33%" valign="top">
+
+### Agentic systems
+
+MCP, AI agents, computer vision and tool-use workflows with humans kept in the loop.
+
+</td>
+<td width="33%" valign="top">
+
+### Infrastructure
+
+Reliable storage, backups, CI and self-hosted systems for creative operations.
+
+</td>
+</tr>
+</table>
+
+## Stack
 
 ```text
-Creative     Photoshop · Capture One · DaVinci Resolve · Blender
-Build        Python · TypeScript · JavaScript · Adobe UXP · Apps Script
-AI           MCP · AI agents · Computer vision · LLM tooling
-Systems      Docker · Linux · GitHub Actions · rclone · WordPress
+Creative   Photoshop · Capture One · DaVinci Resolve · Blender
+Build      Python · TypeScript · JavaScript · Adobe UXP · Apps Script
+AI         MCP · AI Agents · Computer Vision · LLM Tooling
+Systems    Docker · Linux · GitHub Actions · rclone · WordPress
 ```
 
 > Automate repetition. Keep judgment human. Make systems reversible.
@@ -39,4 +61,4 @@ Systems      Docker · Linux · GitHub Actions · rclone · WordPress
 
 </div>
 
-<sub>A significant part of my current work lives in private production repositories.</sub>
+<sub>Most of my current production work lives in private repositories.</sub>
