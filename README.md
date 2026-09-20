@@ -14,6 +14,7 @@ I work at the intersection of **visual production, automation and AI systems**.
 
 **Infrastructure** — backups, storage, CI and self-hosted systems for creative operations.
 
+---
+
 > Automate repetition. Keep judgment human. Make systems reversible.
 
-<sub>Most of my current production work lives in private repositories.</sub>
