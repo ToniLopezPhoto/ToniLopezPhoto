@@ -1,64 +1,34 @@
-<div align="center">
-
 # Toni López
 
 **Photographer · Art Director · Creative Technologist**
 
-I build tools where **visual production meets software**.
+I work at the intersection of **visual production, automation and AI systems**.
 
-`Photography` · `Creative Automation` · `AI Agents` · `Production Systems`
-
-</div>
+`Photography` · `Creative tooling` · `AI agents` · `Production infrastructure`
 
 ---
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**Creative tooling** — Photoshop / UXP tools, image workflows and automation for real production environments.
 
-### Creative tooling
+**Agentic systems** — MCP, AI agents, computer vision and tool-use workflows with human judgment kept in the loop.
 
-Photoshop / UXP tools, image workflows and automation built around real production work.
+**Infrastructure** — backups, storage, CI and self-hosted systems for creative operations.
 
-</td>
-<td width="33%" valign="top">
+### Stack
 
-### Agentic systems
-
-MCP, AI agents, computer vision and tool-use workflows with humans kept in the loop.
-
-</td>
-<td width="33%" valign="top">
-
-### Infrastructure
-
-Reliable storage, backups, CI and self-hosted systems for creative operations.
-
-</td>
-</tr>
-</table>
-
-## Stack
-
-```text
-Creative   Photoshop · Capture One · DaVinci Resolve · Blender
-Build      Python · TypeScript · JavaScript · Adobe UXP · Apps Script
-AI         MCP · AI Agents · Computer Vision · LLM Tooling
-Systems    Docker · Linux · GitHub Actions · rclone · WordPress
-```
+**Creative** · Photoshop · Capture One · DaVinci Resolve · Blender  
+**Build** · Python · TypeScript · JavaScript · Adobe UXP · Apps Script  
+**AI** · MCP · AI Agents · Computer Vision · LLM Tooling  
+**Systems** · Docker · Linux · GitHub Actions · rclone · WordPress
 
 > Automate repetition. Keep judgment human. Make systems reversible.
 
-## Contribution graph
-
-<div align="center">
+### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ToniLopezPhoto/ToniLopezPhoto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToniLopezPhoto/ToniLopezPhoto/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/ToniLopezPhoto/ToniLopezPhoto/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ToniLopezPhoto&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&hide_border=true&hide_title=true&grid=false&days=45">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ToniLopezPhoto&bg_color=ffffff&color=57606a&line=0969da&point=0969da&hide_border=true&hide_title=true&grid=false&days=45">
+  <img width="100%" alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ToniLopezPhoto&bg_color=ffffff&color=57606a&line=0969da&point=0969da&hide_border=true&hide_title=true&grid=false&days=45">
 </picture>
-
-</div>
 
 <sub>Most of my current production work lives in private repositories.</sub>
